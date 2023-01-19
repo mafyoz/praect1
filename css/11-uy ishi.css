@@ -1,0 +1,273 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.body{
+    background-color: aliceblue;
+}
+/* 1 yozuv */
+.menyu{
+    float: left;
+}
+.menyu1{
+    margin: 20px 0px 0px 150px;
+    font-size: 20px;
+    color: black;
+    float: left;
+}
+.menyu2{
+    margin: 0px 5px 0px 0px;
+    font-size:20px;
+    color: rgb(88, 160, 17);
+    float: left;
+}
+.menyu3{
+    font-size: 15px;
+    color: black;
+}
+/* 2 yozuv */
+.nom{
+    float: right;
+}
+.nom1{ 
+    padding: 30px 150px 0px 0px;
+    margin: 0px 8px 0px 0px;
+    float: right;
+    font-size: 20px;
+    color: black;
+}
+.nom2{ 
+    float: right;
+    font-size: 20px;
+    color: rgb(88, 160, 17);
+}
+/* foto */
+.foto{
+    clear: both;
+}
+.foto1{
+background-image:url("/rasm/tometo.jpg");
+width: 100%;
+height: 500px;
+}
+.soz{
+    padding: 150px 0px 0px 300px;
+    color: white;
+    font-size: 40px;
+}
+.soz1{
+    font-size: 70px;
+    color: white;
+}
+
+.a1{
+    float: left;
+    margin: 40px 0px 0px 400px;
+    font-size: 15px;
+    width: 200px;
+    height: 180px;
+    background-color: chocolate;
+}
+.s1{
+    padding: 15px 0px 0px 70px;
+    width: 50px;
+    height: 50px;
+}
+.e1{
+    padding: 5px 0px 0px 20px;
+    font-size: 20px;
+}
+.t1{
+    padding: 10px 0px 0px 15px;
+    font-size: 12px;
+}
+
+.a2{
+    float: left;
+    margin: 40px 0px 0px 30px;
+    font-size: 15px;
+    width: 200px;
+    height: 180px;
+    background-color: rgb(88, 160, 17);
+}
+.s2{
+    padding: 15px 0px 0px 70px;
+    width: 50px;
+    height: 50px;
+}
+.e2{
+    padding: 5px 0px 0px 20px;
+    font-size: 20px;
+}
+.t2{
+    padding: 10px 0px 0px 15px;
+    font-size: 12px;
+}
+.a3{
+    float: left;
+    margin: 40px 0px 0px 30px;
+    font-size: 15px;
+    width: 200px;
+    height: 180px;
+    background-color: cyan;
+}
+.s3{
+    padding: 15px 0px 0px 70px;
+    width: 50px;
+    height: 50px;
+}
+.e3{
+    padding: 5px 0px 0px 20px;
+    font-size: 20px;
+}
+.t3{
+    padding: 10px 0px 0px 15px;
+    font-size: 12px;
+}
+
+/* rasm va tekst */
+.blok1{
+    clear: both;
+    width: 100%;
+    height: 40px;
+}
+.blok2{
+    width: 100%;
+    height: 400px;
+    background-color:rgb(224, 220, 220);
+}
+.lok1{
+    width: 350px;
+    height: 280px;
+    float: left;
+    padding: 80px 0px 0px 250px;
+}
+.what{
+    padding: 80px 0px 0px 50px;
+    float: left;
+    width: 500px;
+    height: 280px;
+    font-size: 30px;
+    color: rgb(88, 160, 17);
+}
+.nemo{
+    font-size: 20px;
+    color: black;
+    padding: 15px 0px 0px 0px;
+}
+.mag{
+    font-size: 15px;
+    padding: 10px 0px 0px 0px;
+    color: rgb(68, 67, 67);
+}
+.k{
+    width: 180px;
+    height: 40px;
+    color: white;
+    background-color: red;
+    margin: 15px 0px 0px 0px;
+}
+.b1{
+    clear: both;
+    font-size: 30px;
+    color:rgb(88, 160, 17);
+    width: 100%;
+    height: 400px;
+    padding: 30px 0px 0px 0px ;
+}
+.b2{
+    margin: 30px 0px 0px 400px;
+    float: left;
+    color: black;
+    height: 250px;
+    width: 300px;
+    border:3px solid  black;
+    font-size: 15px;
+    padding: 50px 0px 0px 20px;
+}
+
+.b3{
+    margin: 30px 0px 0px 50px;
+    float: left;
+    color: black;
+    height: 250px;
+    width: 300px;
+    border:3px solid  black;
+    font-size: 15px;
+    padding: 50px 0px 0px 20px;
+}
+.z1{
+    font-size: 20px;
+     color: blue;
+     padding: 20px 0px 0px 0px;
+}
+
+/* soz va rasm */
+
+.wha{
+    padding: 80px 0px 0px 250px;
+    float: left;
+    width: 500px;
+    height: 280px;
+    font-size: 30px;
+    color: rgb(88, 160, 17);
+}
+.lok2{
+    width: 350px;
+    height: 280px;
+    float: left;
+    padding: 80px 0px 0px 50px;
+}
+
+/* 3 ta soz */
+
+.a{
+    padding: 30px 0px 0px 0px;
+    width: 100%;
+    height: 400px;
+    color: rgb(88, 160, 17);
+    font-size: 30px;
+}
+.v1{
+    float: left;
+    margin: 40px 0px 0px 250px;
+    padding: 20px 0px 0px 10px;
+    color: chocolate;
+    font-size: 20px;
+    width: 280px;
+    height: 280px;
+    border:3px solid  black;
+}
+.c1{
+    padding: 15px 0px 0px 0px;
+    font-size: 15px;
+    color: black;
+}
+.v2{
+    float: left;
+    margin: 40px 0px 0px 20px;
+    padding: 20px 0px 0px 10px;
+    color: chocolate;
+    font-size: 20px;
+    width: 280px;
+    height: 280px;
+    border:3px solid  black;
+}
+.v3{
+    float: left;
+    margin: 40px 0px 0px 20px;
+    padding: 20px 0px 0px 10px;
+    color: chocolate;
+    font-size: 20px;
+    width: 280px;
+    height: 280px;
+    border:3px solid  black;
+}
+/* yakuni qismi */
+.y{
+    background-color: rgb(224, 220, 220);
+    padding: 20px 0px 0px;
+    width: 100%;
+    height: 40px;
+    color: black;
+}
